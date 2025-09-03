@@ -36,8 +36,7 @@
 <section id="about">
   <h2>About Me</h2>
   <div class="about-container">
-    <img src="![Image](https://github.com/user-attachments/assets/b40a78bd-f5ef-4c75-90a4-b6033d1f57e5)" alt="Profile Picture" class="profile-pic">
-
+    <img src="(![preveen s](https://github.com/user-attachments/assets/e424fc5d-5295-4bae-8553-59b1a9e21165)" alt="Profile Picture" class="profile-pic">
     <div class="about-text">
       <h3><span class="icon">👤</span> Hello' I am Praveen Sharma</h3>
       <p><strong>🎥 Passion:</strong> Cinematographer</p>
